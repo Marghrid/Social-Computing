@@ -1,5 +1,6 @@
 echo "open docker"
 open -a Docker
+sleep 30
 
 echo "open browser"
 open http://localhost:8888/
