@@ -1,4 +1,4 @@
-echo "open docker"
+echo "start docker"
 open -a Docker
 sleep 30
 
